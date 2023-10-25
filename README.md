@@ -14,4 +14,6 @@
                 need for advanced and efficient approaches to tackle the growing complexity and scale of modern networks.
                 
 ## ***Dataset/Experimental Setup *** 📝 
-                The solution presented in this paper was tested on a real-time log dataset collected from 10 computer network laboratory systems at our institution. The logs span from October 7, 2022, 12:00 AM to February 24, 2023, 11:59 PM, totaling 2,600,1990 log entries or 788 MB in size. These logs were collected over a six-day period, and for our experiments, we utilized 1 million out of the available 20 million logs.
+                The solution presented in this paper was tested on a real-time log dataset collected from 10 computer network laboratory systems at our institution. 
+                The logs span from October 7, 2022, 12:00 AM to February 24, 2023, 11:59 PM, totaling 2,600,1990 log entries or 788 MB in size. 
+                These logs were collected over a six-day period, and for our experiments, we utilized 1 million out of the available 20 million logs.
