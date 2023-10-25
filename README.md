@@ -1,6 +1,6 @@
 # Anomaly-detection-in-network-logs
 
-## ***Developers*** 👦👧👦
+## ***Developers*** 👧👧👦👧
                 1. Deepika Marella (College🏛️: IIIT NAYA RAIPUR,✉️- m20100@iiitnr.edu.in)
                 2. Muthi Roopa Navya (College🏛️: IIIT NAYA RAIPUR,✉️- roopa20100@iiitnr.edu.in)
                 3. B.Avinash Reddy (College🏛️: IIIT NAYA RAIPUR,✉️- bavinashreddy18@gmail.com)
